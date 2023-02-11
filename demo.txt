@@ -1,3 +1,16 @@
-hiiiii
-hello
-how r u ?
+hi Git hub learnings
+git steps are as follows
+git init
+git remote add origin [gitLink]
+git remote -v
+git add .
+git commit -m "First commit"
+git branch -M main
+
+git push origin main
+
+
+in case for the first time
+git config user.name "someone"
+git config user.email "someone@someplace.com"
+*******end  of steps******* 
